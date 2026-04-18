@@ -1,5 +1,8 @@
 # 📊 Revenue Drivers & Profitability Analysis
 
+🚀 Featured Project
+This is my main portfolio project demonstrating advanced data analysis and business insight generation.
+
 ## 📌 Overview
 This project analyzes key factors affecting revenue and profitability, including product categories, customer segments, regional performance, and discount impact.
 
